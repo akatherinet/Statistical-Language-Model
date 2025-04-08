@@ -1,4 +1,4 @@
-Statistical Language Model for Maltese Project
+__Statistical Language Model for Maltese Language Project__
 
 This project implements a statistical language model for the Maltese language built entirely from scratch.
 
